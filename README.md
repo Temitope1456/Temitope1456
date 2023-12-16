@@ -10,13 +10,13 @@
   </a>
 </div>
 
-## Hi there 👋, My name is Temiyemi Akinsinde
+## Hi there 👋, My name is Temiyemi Akinsinde..
 
-
-- ⚡I’m a data analyst who is proficient in Microsoft tools for extracting and visualizing Data.
-- ⚡I’m currently learning data storytelling.
-- ⚡I’m open to collaborate on data analysis projects; volunteer or otherwise.
-- ⚡Let's connect on [Linkedin](https://www.linkedin.com/temitope1456/).
+- ⚡ I’m a data analyst who is proficient in Microsoft tools for extracting and visualizing Data.
+- ⚡ I’m currently learning data storytelling.
+- 👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
+- 🔭 Fun fact: I love music, coding and seeing movies.
+- 💬 Let's connect on [Linkedin](https://www.linkedin.com/temitope1456/).
 
 ## Skills and Tools: <div>
 <p align="center">
