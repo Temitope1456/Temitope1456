@@ -1,6 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
 
+## Reach me on</h2>
 <div id="badges">
   <a href="https://www.linkedin.com/temitope1456/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -18,7 +19,7 @@
 - 🔭 Fun fact: I love music, coding and seeing movies.
 - 💬 Let's connect on [Linkedin](https://www.linkedin.com/temitope1456/).
 
-## Skills and Tools: <div>
+## Skills and Tools:</h2> <div>
 <p align="center">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="60" height="60"/> </a> 
  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="60" height="60"/> </a>
