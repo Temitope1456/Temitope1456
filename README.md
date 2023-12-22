@@ -1,15 +1,7 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
 
-## Reach me on</h2>
-<div id="badges">
-  <a href="https://www.linkedin.com/temitope1456/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-    <a href="https://twitter.com/Michael11165200?t=R4m6NEKUHGhOsVry6ra9TA&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
+
 
 ## Hi there 👋, My name is Temiyemi Akinsinde..
 
@@ -18,6 +10,16 @@
 - 👯 I’m open to collaborate on data analysis projects; volunteer or otherwise.
 - 🔭 Fun fact: I love music, coding and seeing movies.
 - 💬 Let's connect on [Linkedin](https://www.linkedin.com/temitope1456/).
+
+## Reach me on💬:</h2>
+<div id="badges">
+  <a href="https://www.linkedin.com/temitope1456/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+    <a href="https://twitter.com/Michael11165200?t=R4m6NEKUHGhOsVry6ra9TA&s=09">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 ## Skills and Tools:</h2> <div>
 <p align="center">
