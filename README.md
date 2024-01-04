@@ -35,7 +35,8 @@
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Temitope1456&show_icons=true&count_private=true)  
 
 </div>
-  
+
+## 💻 Check Out My Repos ⬇️ </h2> 
 <!---
 github/temitope1456 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --->
