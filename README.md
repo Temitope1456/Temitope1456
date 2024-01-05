@@ -2,10 +2,12 @@
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" /></p>
 
 
+## 💫 About Me:
 
 ## Hi there 👋, My name is Temiyemi Akinsinde..
 - I’m a data analyst who is proficient in Microsoft tools for extracting and visualizing Data.
 - Transforming Numbers into Insights..
+- I have experience as a freelance data analyst, with projects involving data cleaning, statistical analysis, data visualization, and reporting.
 - I’m open to collaboration on data analysis projects; volunteer or otherwise.
 - Fun fact: I love music, coding and seeing movies.
 - Certified PMP, HRM, HSE123 with Experience.
